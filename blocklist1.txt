@@ -4,3 +4,5 @@
 0.0.0.0 ttmma.go2affise.com
 0.0.0.0 demand.pubadx.one
 0.0.0.0 source.pubadx.one
+0.0.0.0 pubadx.one
+0.0.0.0 pubfuture.com
