@@ -1,6 +1,6 @@
-adtwelve.com
-adsfive.com
-ad-traction.g2afse.com
-ttmma.go2affise.com
-demand.pubadx.one
-source.pubadx.one
+0.0.0.0 adtwelve.com
+0.0.0.0 adsfive.com
+0.0.0.0 ad-traction.g2afse.com
+0.0.0.0 ttmma.go2affise.com
+0.0.0.0 demand.pubadx.one
+0.0.0.0 source.pubadx.one
