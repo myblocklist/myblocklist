@@ -13,3 +13,5 @@
 0.0.0.0 bmedia-gcore.justservingfiles.net
 0.0.0.0 rtbsuperhub.com
 0.0.0.0 eu-adsrv.rtbsuperhub.com
+||rtbsuperhub.com^
+||trafficjunky.net^
