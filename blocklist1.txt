@@ -6,3 +6,10 @@
 0.0.0.0 source.pubadx.one
 0.0.0.0 pubadx.one
 0.0.0.0 pubfuture.com
+0.0.0.0 trafficjunky.com
+0.0.0.0 ht-cdn.trafficjunky.net
+0.0.0.0 pix-ht.trafficjunky.net
+0.0.0.0 justservingfiles.net
+0.0.0.0 bmedia-gcore.justservingfiles.net
+0.0.0.0 rtbsuperhub.com
+0.0.0.0 eu-adsrv.rtbsuperhub.com
