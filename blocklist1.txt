@@ -20,3 +20,4 @@
 0.0.0.0 trafficjunky.com
 0.0.0.0 kv-h.phncdn.com
 ||justservingfiles.net^
+||rtbsuperhub.com^
