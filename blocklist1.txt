@@ -17,3 +17,5 @@
 0.0.0.0 ht-cdn2.adtng.com
 0.0.0.0 pix-cdn77.phncdn.com
 0.0.0.0 pix-ht.trafficjunky.net
+0.0.0.0 static.trafficjunky.com
+0.0.0.0 trafficjunky.com
